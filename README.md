@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @NoiseTrade
+- 👋 Hi, I’m David - @NoiseTrade
 - 👀 I’m interested in learning!
 - 🌱 I’m currently learning Java at College
 - 💞️ I’m looking to collaborate on my mind
