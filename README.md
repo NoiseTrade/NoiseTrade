@@ -1,9 +1,8 @@
 - 👋 Hi, I’m David - @NoiseTrade
 - 👀 I’m interested in learning!
-- 🌱 I’m currently learning software development at College
-- 💞️ I’m looking to collaborate on my mind
+- 🌱 I’m currently a junior web developer @ https://leith.co.uk/
+ 
 - 📫 How to reach me: 
-- https://twitter.com/NoiseTradee
 - https://www.linkedin.com/in/david-mcclung-879277148/
 - Hobbies also include: 
 - Music > https://wecamefromthenorth.bandcamp.com/
