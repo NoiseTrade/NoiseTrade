@@ -1,6 +1,6 @@
 - 👋 Hi, I’m David - @NoiseTrade
 - 👀 I’m interested in learning!
-- 🌱 I’m currently a junior web developer @ https://leith.co.uk/
+- 🌱 I’m currently a <del>junior</del> web developer @ https://leith.co.uk/
  
 - 📫 How to reach me: 
 - https://www.linkedin.com/in/david-mcclung-879277148/
